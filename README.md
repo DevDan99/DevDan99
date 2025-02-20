@@ -41,9 +41,10 @@ My name is Daniel Costa, and I am an experienced web developer and data analyst.
 
 🛠 **Technologies:** HTML5, CSS3, JavaScript and Bootstrap5
 
-🔹 [Fly Swatter Game](https://github.com/DevDan99/Game-Mata-Mosquito)
+🔹 [Website Finans](https://github.com/DevDan99/Projeto-Finans)
 
 📌 
+A home page of a fictitious finance company, like the ones it gives credit to, this page has a modern and attractive style. HTML5, CSS3, Bootstrap5 were used in the development.
 
 🛠 **Technologies:** HTML5, CSS3, JavaScript and Bootstrap5
 
