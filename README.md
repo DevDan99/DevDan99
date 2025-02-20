@@ -35,11 +35,22 @@ My name is Daniel Costa, and I am an experienced web developer and data analyst.
 ---
 
 ## Projects
-🔹 [Nome do Projeto](link para o repositório)
+🔹 [Fly Swatter Game](https://github.com/DevDan99/Game-Mata-Mosquito)
 
-📌 Pequena descrição do projeto.
+📌 In this game created for the browser, the objective is to eliminate the flies by clicking on them, the more flies eliminated, the more points the player will have. This game has a difficulty system and a button to restart the game. HTML, CSS, JavaScript and Bootstrap were used in development.
 
-🛠 **Tecnologias:** [Lista de tecnologias usadas]
+🛠 **Technologies:** HTML5, CSS3, JavaScript and Bootstrap5
+
+🔹 [Fly Swatter Game](https://github.com/DevDan99/Game-Mata-Mosquito)
+
+📌 
+
+🛠 **Technologies:** HTML5, CSS3, JavaScript and Bootstrap5
+
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](www.linkedin.com/in/danielcosta-)
 
 
 <!--
