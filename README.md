@@ -48,11 +48,16 @@ A home page of a fictitious finance company, like the ones it gives credit to, t
 
 🛠 **Technologies:** HTML5, CSS3, JavaScript and Bootstrap5
 
+🔹 [Website Finans](https://github.com/DevDan99/todolist)
+
+📌
+I developed a task management API using Java and Spring Boot, applying good practices for developing REST APIs. The project includes: Creating HTTP routes for CRUD operations, Validating parameters with Bean Validation, Integration with H2 cloud database, JWT authentication with Spring Security, Deployment with Docker and Render.com. This project gave me practical experience with developing and publishing APIs, in addition to consolidating fundamental concepts of Spring Boot and the life cycle of a web application.
+
+🛠 **Technologies:** Java, Spring Boot, API Rest, H2 database, Docker, render.com, maven, JWT
 ---
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](www.linkedin.com/in/danielcosta-)
-
 
 <!--
 **DevDan99/DevDan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
