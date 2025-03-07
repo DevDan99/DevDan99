@@ -35,6 +35,13 @@ My name is Daniel Costa, and I am an experienced web developer and data analyst.
 ---
 
 ## Projects
+🔹 [To-do-List](https://github.com/DevDan99/todolist)
+
+📌
+I developed a task management API using Java and Spring Boot, applying good practices for developing REST APIs. The project includes: Creating HTTP routes for CRUD operations, Validating parameters with Bean Validation, Integration with H2 cloud database, JWT authentication with Spring Security, Deployment with Docker and Render.com. This project gave me practical experience with developing and publishing APIs, in addition to consolidating fundamental concepts of Spring Boot and the life cycle of a web application.
+
+🛠 **Technologies:** Java, Spring Boot, API Rest, H2 database, Docker, render.com, maven, JWT
+
 🔹 [Fly Swatter Game](https://github.com/DevDan99/Game-Mata-Mosquito)
 
 📌 In this game created for the browser, the objective is to eliminate the flies by clicking on them, the more flies eliminated, the more points the player will have. This game has a difficulty system and a button to restart the game. HTML, CSS, JavaScript and Bootstrap were used in development.
@@ -48,12 +55,6 @@ A home page of a fictitious finance company, like the ones it gives credit to, t
 
 🛠 **Technologies:** HTML5, CSS3, JavaScript and Bootstrap5
 
-🔹 [Website Finans](https://github.com/DevDan99/todolist)
-
-📌
-I developed a task management API using Java and Spring Boot, applying good practices for developing REST APIs. The project includes: Creating HTTP routes for CRUD operations, Validating parameters with Bean Validation, Integration with H2 cloud database, JWT authentication with Spring Security, Deployment with Docker and Render.com. This project gave me practical experience with developing and publishing APIs, in addition to consolidating fundamental concepts of Spring Boot and the life cycle of a web application.
-
-🛠 **Technologies:** Java, Spring Boot, API Rest, H2 database, Docker, render.com, maven, JWT
 ---
 
 ## 📫 Contato
