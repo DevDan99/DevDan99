@@ -14,7 +14,7 @@ My name is Daniel Costa, and I am an experienced web developer and data analyst.
 
 🔹 Data Analysis: Power BI (DAX), SQL, Process Automation.
 
-🔹 Version Control: Git, GitHub.
+🔹 Version Control: Git, GitHub, Docker, Maven.
 
 🔹 Tools: Postman, Vscode and Insomnia.
 
